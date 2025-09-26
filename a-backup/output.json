@@ -1,0 +1,1987 @@
+[
+  {
+    "title": "Vue學習手冊 : 可重用、易組合且規模可擴充的UI核心概念和實用模式",
+    "authors": [
+      "沙文",
+      "黃銘偉"
+    ],
+    "isbn": "9786263248557",
+    "subjects": [
+      "Java Script(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010995465",
+    "publisher": "歐萊禮",
+    "publicationDate": "2024/07/29",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1025520"
+  },
+  {
+    "title": "SOLIDWORKS零件與組合件培訓教材",
+    "authors": [
+      "Dassault Systèmes SOLIDWORKS®公司",
+      "許中原"
+    ],
+    "isbn": "9786263338098",
+    "subjects": [
+      "電腦繪圖",
+      "SolidWorks(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010983954",
+    "publisher": "博碩",
+    "publicationDate": "2024/03/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1008932"
+  },
+  {
+    "title": "優羽和程式設計魔法筆記本",
+    "authors": [
+      "鳥井雪",
+      "吳嘉芳"
+    ],
+    "isbn": "9786263247994",
+    "subjects": [
+      "通俗作品",
+      "電腦程式設計"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013189745",
+    "publisher": "美商歐萊禮",
+    "publicationDate": "2024/05/21",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1012811"
+  },
+  {
+    "title": "Python建模和模擬 : 科學家與工程師的入門指南",
+    "authors": [
+      "道尼",
+      "楊新章"
+    ],
+    "isbn": "9786263248168",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013583717",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2024/09/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1029105"
+  },
+  {
+    "title": "AI時代不缺席 : RTC即時音訊程式設計最高指導書",
+    "authors": [
+      "戴維"
+    ],
+    "isbn": "9786267383995",
+    "subjects": [
+      "數位影音處理",
+      "即時通訊"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013581701",
+    "publisher": "深智數位",
+    "publicationDate": "2024/09/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1029126"
+  },
+  {
+    "title": "Web Tracking的資安攻擊與防禦策略 : 淺析當代瀏覽器的隱私議題",
+    "authors": [
+      "周楷翔"
+    ],
+    "isbn": "9786263337053",
+    "subjects": [
+      "資訊安全",
+      "電腦網路",
+      "網路安全"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012775130",
+    "publisher": "博碩文化",
+    "publicationDate": "2024/01/11",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1004212"
+  },
+  {
+    "title": "完全圖解人工智慧 : 零基礎也OK!從NLP、圖像辨識到生成模型, 現代人必修的53堂AI課",
+    "authors": [
+      "高橋海渡",
+      "陳識中"
+    ],
+    "isbn": "9786263791848",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012737820",
+    "publisher": "臺灣東販",
+    "publicationDate": "2023/12/27",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1004530"
+  },
+  {
+    "title": "ChatGPT提問課 做個懂AI的高效工作者 : 從零基礎到對答如流 ChatGPT職場應用指南",
+    "authors": [
+      "鄭緯筌"
+    ],
+    "isbn": "9786269749676",
+    "subjects": [
+      "職場成功法",
+      "工作效率",
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010977923",
+    "publisher": "虎吉",
+    "publicationDate": "2024/01/04",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1005892"
+  },
+  {
+    "title": "MySQL資料庫開發的樂趣 : 18堂資料庫開發基礎入門與專題實作課程",
+    "authors": [
+      "席爾瓦",
+      "黃詩涵"
+    ],
+    "isbn": "9786263247192",
+    "subjects": [
+      "SQL(電腦程式語言)",
+      "資料庫管理系統",
+      "關聯式資料庫"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012739706",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2024/01/11",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1006019"
+  },
+  {
+    "title": "誰說資安寫不了情書",
+    "authors": [
+      "孫哲齡"
+    ],
+    "isbn": "9786267383339",
+    "subjects": [
+      "資訊安全",
+      "電腦資訊系統"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010981881",
+    "publisher": "深智數位",
+    "publicationDate": "2024/02/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1007086"
+  },
+  {
+    "title": "說的比畫的好看 : Prompt魔幻大法-MidJourney版",
+    "authors": [
+      "AIGC-RY研究所"
+    ],
+    "isbn": "9786267383421",
+    "subjects": [
+      "數位影像處理",
+      "電腦繪圖",
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010983518",
+    "publisher": "深智數位",
+    "publicationDate": "2024/03/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1008553"
+  },
+  {
+    "title": "快速精通iOS 17程式設計 : 從零開始活用Swift與SwiftUI開發技巧",
+    "authors": [
+      "Simon Ng",
+      "王豪勳"
+    ],
+    "isbn": "9786263337480",
+    "subjects": [
+      "電腦程式設計",
+      "系統程式",
+      "行動資訊"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010983089",
+    "publisher": "博碩",
+    "publicationDate": "2024/03/11",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1008894"
+  },
+  {
+    "title": "AI助攻Python超級入門 創意設計 x AI程式實作",
+    "authors": [
+      "洪錦魁"
+    ],
+    "isbn": "9786267383698",
+    "subjects": [
+      "人工智慧",
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013195409",
+    "publisher": "深智數位",
+    "publicationDate": "2024/05/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1012884"
+  },
+  {
+    "title": "人工智慧Python程式設計 = Python programming for AI with ChatGPT",
+    "authors": [
+      "張陳基"
+    ],
+    "isbn": "9786269839711",
+    "subjects": [
+      "人工智慧",
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010986490",
+    "publisher": "新陸書局",
+    "publicationDate": "2024/04/15",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1012066"
+  },
+  {
+    "title": "未來工廠超進化!工業4.0的物聯網智慧工廠應用與實作 : 使用Arduino. Node-RED. Python. Grafana",
+    "authors": [
+      "王進德"
+    ],
+    "isbn": "9786263338388",
+    "subjects": [
+      "電腦程式設計",
+      "人工智慧",
+      "物聯網",
+      "生產自動化"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013230994",
+    "publisher": "博碩文化",
+    "publicationDate": "2024/04/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1012936"
+  },
+  {
+    "title": "AIGC創意美學之路 : 善用AI繪圖無限的可能性, 成為想像與創意飛翔的助力",
+    "authors": [
+      "李怡志"
+    ],
+    "isbn": "9789863127697",
+    "subjects": [
+      "人工智慧",
+      "電腦圖像處理"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012813616",
+    "publisher": "AIGC創意美學之路",
+    "publicationDate": "2024/01/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1005402"
+  },
+  {
+    "title": "從零開始學Python程式設計",
+    "authors": [
+      "李馨"
+    ],
+    "isbn": "9786263337831",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010983965",
+    "publisher": "博碩",
+    "publicationDate": "2024/03/14",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1008722"
+  },
+  {
+    "title": "人工智慧入門與應用實作 : 全面了解AI技術與ChatGPT的多重應用",
+    "authors": [
+      "榮欽科技"
+    ],
+    "isbn": "9786263337688",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010983075",
+    "publisher": "博碩",
+    "publicationDate": "2024/03/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1009082"
+  },
+  {
+    "title": "ChatGPT超級應用 : 讓AI幫你處理課業、生活、職場大小事",
+    "authors": [
+      "吳燦銘"
+    ],
+    "isbn": "9786263338180",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010987318",
+    "publisher": "博碩",
+    "publicationDate": "2024/04/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1012010"
+  },
+  {
+    "title": "AI影片製作工具箱 : AI繪圖合成 智慧編輯剪片 ChatGPT文案生成全攻略",
+    "authors": [
+      "鄭苑鳳"
+    ],
+    "isbn": "9786263337466",
+    "subjects": [
+      "數位影像處理",
+      "電腦繪圖",
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/E050213733",
+    "publisher": "博碩",
+    "publicationDate": "2024/02/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1006775"
+  },
+  {
+    "title": "AutoCAD 2025特訓教材. 基礎篇 : 工程設計領域",
+    "authors": [
+      "吳永進",
+      "林美櫻"
+    ],
+    "isbn": "9786263248939",
+    "subjects": [
+      "AutoCAD 2025(電腦程式)",
+      "考試指南"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010998815",
+    "publisher": "碁峰",
+    "publicationDate": "2024/09/09",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038329"
+  },
+  {
+    "title": "SOLIDWORKS工程圖培訓教材",
+    "authors": [
+      "Dassault Systèmes SOLIDWORKS®公司",
+      "許中原"
+    ],
+    "isbn": "9786263338104",
+    "subjects": [
+      "電腦繪圖",
+      "SolidWorks(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010983947",
+    "publisher": "博碩",
+    "publicationDate": "2024/03/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1008883"
+  },
+  {
+    "title": "超實用!人資. 行政. 總務的辦公室EXCEL必備50招省時技",
+    "authors": [
+      "張雯燕"
+    ],
+    "isbn": "9786263338128",
+    "subjects": [
+      "文書處理",
+      "EXCEL(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/E050216791",
+    "publisher": "博碩",
+    "publicationDate": "2024/03/21",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1008933"
+  },
+  {
+    "title": "一步到位!Python程式設計",
+    "authors": [
+      "陳惠貞"
+    ],
+    "isbn": "9789863127956",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010990513",
+    "publisher": "旗標",
+    "publicationDate": "2024/06/03",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1015988"
+  },
+  {
+    "title": "FastAPI : 現代Python網站開發",
+    "authors": [
+      "盧巴諾維奇",
+      "張正豪"
+    ],
+    "isbn": "9786264250238",
+    "subjects": [
+      "Python(電腦程式語言)",
+      "網站",
+      "電腦程式設計"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014124982",
+    "publisher": "美商歐萊禮",
+    "publicationDate": "2025/04/11",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037602"
+  },
+  {
+    "title": "零基礎OK!動畫藝術家 長砂ヒロ的電繪入門課 : 用畫筆記錄日常中的美麗色彩",
+    "authors": [
+      "長砂ヒロ",
+      "謝薾鎂"
+    ],
+    "isbn": "9789863128250",
+    "subjects": [
+      "電腦繪圖",
+      "繪畫技法"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014106384",
+    "publisher": "零基礎OK！動畫藝術家長砂ヒロ的電繪入門課：用畫筆記錄日常中的美麗色彩（PS / CSP / Procreate 皆適用）",
+    "publicationDate": "2025/04/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038389"
+  },
+  {
+    "title": "共生之道 : 人類逆襲AI的生存指南",
+    "authors": [
+      "吳宥忠"
+    ],
+    "isbn": "9786264050180",
+    "subjects": [
+      "人工智慧",
+      "未來社會",
+      "趨勢研究"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014127331",
+    "publisher": "創見文化",
+    "publicationDate": "2025/04/09",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037620"
+  },
+  {
+    "title": "AI獨家解密 : DALL.E、Midjourney、Stable Diffusion Python打開圖片生成原理潘朵拉盒子",
+    "authors": [
+      "南柯"
+    ],
+    "isbn": "9786267569672",
+    "subjects": [
+      "人工智慧",
+      "電腦圖像處理"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014128372",
+    "publisher": "深智數位",
+    "publicationDate": "2025/04/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038046"
+  },
+  {
+    "title": "從源頭就優化 : 動手開發自己的編譯器實戰",
+    "authors": [
+      "于東亮"
+    ],
+    "isbn": "9786267569689",
+    "subjects": [
+      "編輯器",
+      "電腦程式設計",
+      "電腦程式語言"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011018271",
+    "publisher": "深智數位",
+    "publicationDate": "2025/04/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037804"
+  },
+  {
+    "title": "智慧演化論, 從最小的粒子到最大的思想 : 病毒學會變異、植物懂得溝通、AI開始創作......智慧的演化從未停止!我們是否能夠見證智慧的下一次飛躍?",
+    "authors": [
+      "于非"
+    ],
+    "isbn": "9786267708163",
+    "subjects": [
+      "人工智慧",
+      "演化論"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014291013",
+    "publisher": "沐燁文化",
+    "publicationDate": "2025/04/30",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038064"
+  },
+  {
+    "title": "無瑕的程式碼. 函數式設計篇 : 原則、模式與實踐",
+    "authors": [
+      "馬丁",
+      "張立顗"
+    ],
+    "isbn": "9786264141772",
+    "subjects": [
+      "軟體研發",
+      "電腦程式設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011019149",
+    "publisher": "博碩",
+    "publicationDate": "2025/04/30",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038247"
+  },
+  {
+    "title": "快速精通iOS 18程式設計 : 從零開始活用Swift與SwiftUI開發技巧",
+    "authors": [
+      "Simon Ng",
+      "王豪勳"
+    ],
+    "isbn": "9786264141277",
+    "subjects": [
+      "系統程式",
+      "電腦程式設計",
+      "行動資訊"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014110331",
+    "publisher": "博碩文化",
+    "publicationDate": "2025/04/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038254"
+  },
+  {
+    "title": "Daz Studio模型商品化全攻略 : 從零基礎學習角色模型創作與販售技巧",
+    "authors": [
+      "張嘉仁",
+      "邵程豪"
+    ],
+    "isbn": "9786267567708",
+    "subjects": [
+      "電腦軟體",
+      "電腦動畫設計",
+      "教材教學"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014110410",
+    "publisher": "Daz Studio模型商品化全攻略：從零基礎學習角色模型創作與販售技巧",
+    "publicationDate": "2025/04/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038351"
+  },
+  {
+    "title": "生成式AI專案實踐指南 : 從模型挑選、上線、RAG技術到AI Agent整合",
+    "authors": [
+      "劉育維"
+    ],
+    "isbn": "9786264141895",
+    "subjects": [
+      "人工智慧",
+      "自然語言處理"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011019629",
+    "publisher": "博碩",
+    "publicationDate": "2025/05/14",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038405"
+  },
+  {
+    "title": "程式設計原來不只有寫CODE! : 銜接學校與職場的五堂軟體開發實習課 = Beyond just coding : five essential lessons from classroom to career in software development",
+    "authors": [
+      "劉安齊"
+    ],
+    "isbn": "9786264140348",
+    "subjects": [
+      "電腦程式設計",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013665055",
+    "publisher": "博碩文化",
+    "publicationDate": "2025/01/08",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1032049"
+  },
+  {
+    "title": "到地府走一趟才發現連閻羅王都會Python!",
+    "authors": [
+      "施威銘研究室"
+    ],
+    "isbn": "9789863128106",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011011149",
+    "publisher": "旗標",
+    "publicationDate": "2025/01/15",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1032731"
+  },
+  {
+    "title": "Python程式設計 : AI與資料科學應用",
+    "authors": [
+      "劉立民"
+    ],
+    "isbn": "9789579548922",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013592340",
+    "publisher": "普林斯頓國際",
+    "publicationDate": "2024/09/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1032955"
+  },
+  {
+    "title": "架構資料與機器學習平台 : 雲端啟動分析與AI驅動的創新",
+    "authors": [
+      "特蘭奎林",
+      "拉什曼南",
+      "泰基納",
+      "柳百郁"
+    ],
+    "isbn": "9786263249608",
+    "subjects": [
+      "資料庫設計",
+      "資料庫管理",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011018906",
+    "publisher": "歐萊禮",
+    "publicationDate": "2025/04/24",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037761"
+  },
+  {
+    "title": "AI投資理財賺錢術 : No code也能賺大錢",
+    "authors": [
+      "洪錦魁"
+    ],
+    "isbn": "9786267569436",
+    "subjects": [
+      "投資",
+      "理財",
+      "人工智慧",
+      "OFFICE(電腦程式)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013666247",
+    "publisher": "深智數位",
+    "publicationDate": "2025/01/03",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1034625"
+  },
+  {
+    "title": "Word 論文寫作全攻略 : Copilot 智慧引導, 助你輕鬆掌握論文排版技巧",
+    "authors": [
+      "鄭苑鳳"
+    ],
+    "isbn": "9786264141796",
+    "subjects": [
+      "Word(電腦程式)",
+      "論文寫作法"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014110334",
+    "publisher": "博碩文化",
+    "publicationDate": "2025/04/02",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038056"
+  },
+  {
+    "title": "AIGC未來式, 當人工智慧成為共創者 : 顛覆創作模式 x 改寫產業規則 x 重構市場格局 x 助力企業轉型, 生成式AI顛覆未來的無限潛能",
+    "authors": [
+      "陳雪濤",
+      "張子燁"
+    ],
+    "isbn": "9786264165594",
+    "subjects": [
+      "人工智慧",
+      "機器學習",
+      "產業發展"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014321644",
+    "publisher": "崧燁文化",
+    "publicationDate": "2025/05/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1038023"
+  },
+  {
+    "title": "令人著迷的Midjourney AI繪圖 : 從入門到突破",
+    "authors": [
+      "吳君友"
+    ],
+    "isbn": "9786263249349",
+    "subjects": [
+      "電腦繪圖",
+      "人工智慧",
+      "電腦圖像處理"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011009625",
+    "publisher": "碁峰",
+    "publicationDate": "2025/01/06",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1032456"
+  },
+  {
+    "title": "Hey Siri及Ok Google原理 : AI語音辨識專案真應用開發",
+    "authors": [
+      "楊學銳",
+      "晏超",
+      "劉雪松"
+    ],
+    "isbn": "9786267569795",
+    "subjects": [
+      "電腦語音辨識",
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011020882",
+    "publisher": "深智數位",
+    "publicationDate": "2025/05/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037986"
+  },
+  {
+    "title": "跟我學Windows 11輕鬆操作 高效應用必備技 : 應用Copilot為生活與工作開外掛!",
+    "authors": [
+      "郭姮劭"
+    ],
+    "isbn": "9786264250788",
+    "subjects": [
+      "WINDOWS(電腦程式)",
+      "作業系統"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011020733",
+    "publisher": "碁峰",
+    "publicationDate": "2025/05/21",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037979"
+  },
+  {
+    "title": "Kotlin程式開發技巧全方位實作指南 : 語言快速入門與實例解析",
+    "authors": [
+      "彭建文"
+    ],
+    "isbn": "9786264141130",
+    "subjects": [
+      "系統程式",
+      "電腦程式設計",
+      "Kotlin(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/014320353",
+    "publisher": "博碩文化",
+    "publicationDate": "2025/05/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037981"
+  },
+  {
+    "title": "漫畫圖解一看就懂 : AI為什麼重要 : AI是人類解決未來難題的助力",
+    "authors": [
+      "趙貞怡",
+      "陳英叡",
+      "陳竹妗"
+    ],
+    "isbn": "9786269833726",
+    "subjects": [
+      "通俗作品",
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/013662991",
+    "publisher": "大心文創",
+    "publicationDate": "2025/01/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1032332"
+  },
+  {
+    "title": "我做的第一款Roblox遊戲就超好玩",
+    "authors": [
+      "李開放"
+    ],
+    "isbn": "9786264038454",
+    "subjects": [
+      "電腦遊戲",
+      "線上遊戲",
+      "電腦程式設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011020452",
+    "publisher": "尖端",
+    "publicationDate": "2025/05/16",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037990"
+  },
+  {
+    "title": "多核心CPU加速程式32倍 : 深入高平行開發深度原理&專案實戰",
+    "authors": [
+      "冰河"
+    ],
+    "isbn": "9786267569801",
+    "subjects": [
+      "Java(電腦程式語言)",
+      "電腦程式設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011020880",
+    "publisher": "深智數位",
+    "publicationDate": "2025/05/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1037984"
+  },
+  {
+    "title": "運算思維修習學堂 : 使用C語言的10堂入門程式課",
+    "authors": [
+      "吳燦銘"
+    ],
+    "isbn": "9786264141116",
+    "subjects": [
+      "C(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0011011924",
+    "publisher": "博碩",
+    "publicationDate": "2025/01/24",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1033917"
+  },
+  {
+    "title": "AI時代的思考與寫作 : 三意AI思創塾(WMBA)的思索與實踐",
+    "authors": [
+      "吳仁麟",
+      "李慶芳"
+    ],
+    "isbn": "9786267337547",
+    "subjects": [
+      "人工智慧",
+      "技術發展"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012444935",
+    "publisher": "布克文化",
+    "publicationDate": "2023/09/30",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/996529"
+  },
+  {
+    "title": "用Unity遊戲設計",
+    "authors": [
+      "北村愛実",
+      "蔡斐如"
+    ],
+    "isbn": "9789863127413",
+    "subjects": [
+      "電腦程式設計",
+      "電腦遊戲"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010965037",
+    "publisher": "旗標",
+    "publicationDate": "2023/08/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/997243"
+  },
+  {
+    "title": "Docker實戰6堂課 : 56個實驗動手做, 掌握Linux容器核心技術",
+    "authors": [
+      "賴怡玲"
+    ],
+    "isbn": "9786263336131",
+    "subjects": [
+      "作業系統"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012516281",
+    "publisher": "博碩文化",
+    "publicationDate": "2023/10/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1001211"
+  },
+  {
+    "title": "聽 機器在說話 : 生成式A.I.傳播進化 : 人工智慧重塑人類的交流",
+    "authors": [
+      "牟怡",
+      "彭蘭",
+      "龐建新"
+    ],
+    "isbn": "9786269753109",
+    "subjects": [
+      "人際傳播",
+      "人工智慧",
+      "傳播科技"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010962274",
+    "publisher": "沐燁文化",
+    "publicationDate": "2023/07/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/998318"
+  },
+  {
+    "title": "遊戲設計師全書 : 第一本遊戲「趣味」設計力即戰Know-how, 打造玩不膩的遊戲",
+    "authors": [
+      "塩川洋介",
+      "劉人瑋"
+    ],
+    "isbn": "9789864803279",
+    "subjects": [
+      "電腦遊戲",
+      "程式設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010966981",
+    "publisher": "易博士出版社",
+    "publicationDate": "2023/09/30",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1000027"
+  },
+  {
+    "title": "好好問ChatGPT : 問對問題, 精確提示, 讓生成式AI幫你構思工作新點子、規畫美好生活",
+    "authors": [
+      "麥克喬治",
+      "龐元媛"
+    ],
+    "isbn": "9786269750054",
+    "subjects": [
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010969091",
+    "publisher": "真文化",
+    "publicationDate": "2023/10/04",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1001714"
+  },
+  {
+    "title": "超實用!Word. Excel. Powerpoint辦公室OFFICE 365省時高手必備50招",
+    "authors": [
+      "張雯燕"
+    ],
+    "isbn": "9786263335820",
+    "subjects": [
+      "OFFICE(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010968573",
+    "publisher": "博碩",
+    "publicationDate": "2023/09/27",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1001686"
+  },
+  {
+    "title": "100張圖搞懂AI人工智慧產業鏈",
+    "authors": [
+      "江達威"
+    ],
+    "isbn": "9786267197394",
+    "subjects": [
+      "產業發展",
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/012645376",
+    "publisher": "財經傳訊",
+    "publicationDate": "2023/11/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1002134"
+  },
+  {
+    "title": "Google Office與ChatGPT創新應用 : 打造無限可能的生產力",
+    "authors": [
+      "吳燦銘"
+    ],
+    "isbn": "9786263336834",
+    "subjects": [
+      "人工智慧",
+      "電腦程式",
+      "文書處理"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010975417",
+    "publisher": "博碩",
+    "publicationDate": "2023/12/12",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1003802"
+  },
+  {
+    "title": "室內設計製圖解剖 : 立面圖表現法 = Interior design and elevation drawing using AutoCAD",
+    "authors": [
+      "留美幸"
+    ],
+    "isbn": "9789863127369",
+    "subjects": [
+      "室內設計",
+      "AutoCAD(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010944884",
+    "publisher": "旗標",
+    "publicationDate": "2023/01/10",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/969833"
+  },
+  {
+    "title": "AI提示工程師的16堂關鍵必修課 : 精準提問 x 優化提示 x 有效查詢 x 文字生成 x AI繪圖 = AI prompt engineer",
+    "authors": [
+      "吳燦銘"
+    ],
+    "isbn": "9786263336308",
+    "subjects": [
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010971860",
+    "publisher": "博碩",
+    "publicationDate": "2023/11/10",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1004193"
+  },
+  {
+    "title": "網頁視覺特效最強必殺技大全 : 用Three.js與Shader圖說核心原理 x 閃避踩雷 x 創作指南",
+    "authors": [
+      "蘇桓晨"
+    ],
+    "isbn": "9786263336797",
+    "subjects": [
+      "視覺設計",
+      "電腦程式設計",
+      "網頁設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010977472",
+    "publisher": "博碩",
+    "publicationDate": "2024/01/09",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1004317"
+  },
+  {
+    "title": "Raspberry Pi錦囊妙計 : 軟硬體問題與解決方案",
+    "authors": [
+      "蒙克",
+      "俞瑞成"
+    ],
+    "isbn": "9786263246928",
+    "subjects": [
+      "電腦程式設計",
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010976575",
+    "publisher": "歐萊禮",
+    "publicationDate": "2023/12/25",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1004434"
+  },
+  {
+    "title": "微電影行銷養成術 : 影音剪輯實作攻略 x 社群媒體行銷",
+    "authors": [
+      "鄭苑鳳"
+    ],
+    "isbn": "9786263333734",
+    "subjects": [
+      "網路行銷",
+      "數位影像處理",
+      "多媒體"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010947636",
+    "publisher": "博碩",
+    "publicationDate": "2023/01/31",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/971410"
+  },
+  {
+    "title": "TinyML經典範例集 : 結合人工智慧與超低功耗嵌入式裝置 讓這個世界更聰明",
+    "authors": [
+      "伊奧迪斯",
+      "曾吉弘"
+    ],
+    "isbn": "9786263244009",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/011472293",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2023/01/17",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/971457"
+  },
+  {
+    "title": "IoT開發最強雙引擎 : Node-RED + App Inventor 2, 用視覺化環境打造IoT物聯網裝置",
+    "authors": [
+      "陳會安"
+    ],
+    "isbn": "9786263333567",
+    "subjects": [
+      "電腦程式設計",
+      "系統程式",
+      "行動資訊"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010945468",
+    "publisher": "博碩",
+    "publicationDate": "2023/01/13",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/971564"
+  },
+  {
+    "title": "Tensorflow接班王者 : Google JAX深度學習又快又強大",
+    "authors": [
+      "王曉華"
+    ],
+    "isbn": "9786267146897",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010945978",
+    "publisher": "深智數位",
+    "publicationDate": "2023/01/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/973277"
+  },
+  {
+    "title": "Python金融市場賺大錢聖經 : 寫出你的專屬指標",
+    "authors": [
+      "張峮瑋"
+    ],
+    "isbn": "9786267273180",
+    "subjects": [
+      "證券投資",
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/011525738",
+    "publisher": "深智數位",
+    "publicationDate": "2023/03/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/974846"
+  },
+  {
+    "title": "超Easy!Blender 3D繪圖設計速成包 : 含3D列印技巧",
+    "authors": [
+      "倪慧君"
+    ],
+    "isbn": "9789865235413",
+    "subjects": [
+      "電腦繪圖",
+      "電腦動畫"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/011520899",
+    "publisher": "台科大圖書",
+    "publicationDate": "2023/01/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/974854"
+  },
+  {
+    "title": "設計好好玩!Photoshop + Illustrator基礎入門",
+    "authors": [
+      "鄭苑鳳"
+    ],
+    "isbn": "9786263333758",
+    "subjects": [
+      "數位影像處理",
+      "Illustrator(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010947376",
+    "publisher": "博碩",
+    "publicationDate": "2023/01/17",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/974926"
+  },
+  {
+    "title": "跟我學Windows 11 : 輕鬆操控 x 提升效率",
+    "authors": [
+      "郭姮劭"
+    ],
+    "isbn": "9786263243811",
+    "subjects": [
+      "作業系統",
+      "WINDOWS(電腦程式)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/011471813",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2023/01/16",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/974927"
+  },
+  {
+    "title": "我的第一本元宇宙指南",
+    "authors": [
+      "金相均",
+      "黃莞婷",
+      "吳丁錫",
+      "趙丙玉"
+    ],
+    "isbn": "9789571475882",
+    "subjects": [
+      "數位科技",
+      "虛擬實境"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/011519715",
+    "publisher": "三民書局",
+    "publicationDate": "2023/03/08",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/974980"
+  },
+  {
+    "title": "軟體專案估算 : 為決策者提供高品質資訊的基礎架構",
+    "authors": [
+      "阿布蘭",
+      "徐丹霞",
+      "郭玲",
+      "任甲林"
+    ],
+    "isbn": "9786263332256",
+    "subjects": [
+      "專案管理",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010934983",
+    "publisher": "博碩",
+    "publicationDate": "2022/09/12",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/965155"
+  },
+  {
+    "title": "EN帶你寫個作業系統 : 來趟RISC-V開發輕旅行",
+    "authors": [
+      "陳毅"
+    ],
+    "isbn": "9786263332188",
+    "subjects": [
+      "作業系統"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010933946",
+    "publisher": "博碩",
+    "publicationDate": "2022/08/31",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963461"
+  },
+  {
+    "title": "AI時代, 設計力的剩餘價值 : 對象 x 流程 x 應用 x 能力塑造, 人工智慧浪潮下的設計師生存攻略",
+    "authors": [
+      "薛志榮"
+    ],
+    "isbn": "9786263327399",
+    "subjects": [
+      "電腦程式設計",
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010936098",
+    "publisher": "崧燁文化",
+    "publicationDate": "2022/10/03",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963503"
+  },
+  {
+    "title": "只要一行指令!FFmpeg應用開發完全攻略",
+    "authors": [
+      "殷汶杰"
+    ],
+    "isbn": "9786267146330",
+    "subjects": [
+      "電腦程式設計",
+      "數位影像處理",
+      "數位影音處理"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/product/index/010716990",
+    "publisher": "深智數位",
+    "publicationDate": "2022/09/22",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963600"
+  },
+  {
+    "title": "全格局使用PyTorch. 基礎篇 : 深度學習和圖神經網路",
+    "authors": [
+      "李金洪"
+    ],
+    "isbn": "9786267146477",
+    "subjects": [
+      "人工智慧",
+      "神經網路",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010934939",
+    "publisher": "深智數位",
+    "publicationDate": "2022/09/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963684"
+  },
+  {
+    "title": "Hey Siri及Ok Google原理 : AI語音辨識專案真應用開發",
+    "authors": [
+      "楊學銳",
+      "晏超",
+      "劉雪松"
+    ],
+    "isbn": "9786267146484",
+    "subjects": [
+      "電腦語音辨識",
+      "深度學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010935238",
+    "publisher": "深智數位",
+    "publicationDate": "2022/09/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963703"
+  },
+  {
+    "title": "開發聊天機器人, 比你想的還簡單!",
+    "authors": [
+      "楊舒安"
+    ],
+    "isbn": "9786267146521",
+    "subjects": [
+      "機器人",
+      "人工智慧",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010727053",
+    "publisher": "深智數位",
+    "publicationDate": "2022/09/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963727"
+  },
+  {
+    "title": "Python最強入門邁向數據科學之路 : 王者歸來",
+    "authors": [
+      "洪錦魁"
+    ],
+    "isbn": "9786267146453",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010933211",
+    "publisher": "深智數位",
+    "publicationDate": "2022/08/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963770"
+  },
+  {
+    "title": "從Hooks開始 讓你的網頁React起來",
+    "authors": [
+      "陳柏融"
+    ],
+    "isbn": "9786263332874",
+    "subjects": [
+      "系統程式",
+      "行動資訊",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010937770",
+    "publisher": "博碩",
+    "publicationDate": "2022/10/12",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963780"
+  },
+  {
+    "title": "LINE聊天機器人 + AI + 雲端 + 開源 + 程式 輕鬆入門到完整學習",
+    "authors": [
+      "林建宏"
+    ],
+    "isbn": "9786267146569",
+    "subjects": [
+      "人工智慧",
+      "Jave Script(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010804606",
+    "publisher": "深智數位",
+    "publicationDate": "2022/10/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963798"
+  },
+  {
+    "title": "今晚來點Web前端效能優化大補帖 : 一次搞定指標 x 工具 x 技巧, 打造超高速網站",
+    "authors": [
+      "莫力全"
+    ],
+    "isbn": "9786263332218",
+    "subjects": [
+      "電腦程式設計",
+      "網頁設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010935456",
+    "publisher": "博碩",
+    "publicationDate": "2022/09/16",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963820"
+  },
+  {
+    "title": "全格局使用PyTorch. 實戰篇 : 深度學習和圖神經網路",
+    "authors": [
+      "李金洪"
+    ],
+    "isbn": "9786267146552",
+    "subjects": [
+      "人工智慧",
+      "神經網路",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010937687",
+    "publisher": "深智數位",
+    "publicationDate": "2022/10/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963849"
+  },
+  {
+    "title": "電腦&程式設計知識圖鑑 : 0基礎也好懂!科技素養與邏輯力躍進的第一步!",
+    "authors": [
+      "童小芳",
+      "石戶奈奈子"
+    ],
+    "isbn": "9786263294622",
+    "subjects": [
+      "電腦程式設計",
+      "電腦"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010936292",
+    "publisher": "台灣東販",
+    "publicationDate": "2022/09/28",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963875"
+  },
+  {
+    "title": "Linux Shell程式設計與管理實務",
+    "authors": [
+      "臥龍小三"
+    ],
+    "isbn": "9786263332539",
+    "subjects": [
+      "作業系統",
+      "Shell(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010935654",
+    "publisher": "博碩",
+    "publicationDate": "2022/09/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964151"
+  },
+  {
+    "title": "C最強入門邁向頂尖高手之路王者歸來",
+    "authors": [
+      "洪錦魁"
+    ],
+    "isbn": "9786267146187",
+    "subjects": [
+      "C(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010533154",
+    "publisher": "深智數位",
+    "publicationDate": "2022/06/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964258"
+  },
+  {
+    "title": "Tailwind CSS 3.0從零開始 : 入門到實戰",
+    "authors": [
+      "許智庭"
+    ],
+    "isbn": "9786267146460",
+    "subjects": [
+      "全球資訊網",
+      "網頁設計",
+      "CSS(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010934947",
+    "publisher": "深智數位",
+    "publicationDate": "2022/09/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964233"
+  },
+  {
+    "title": "開發者傳授PyTorch秘笈",
+    "authors": [
+      "陳昭明"
+    ],
+    "isbn": "9786267146156",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010926200",
+    "publisher": "深智數位",
+    "publicationDate": "2022/06/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964268"
+  },
+  {
+    "title": "OpenCV影像創意邁向AI視覺 : 王者歸來",
+    "authors": [
+      "洪錦魁"
+    ],
+    "isbn": "9789860776782",
+    "subjects": [
+      "數位影像處理",
+      "電腦視覺",
+      "Python(電腦語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010913455",
+    "publisher": "深智數位",
+    "publicationDate": "2022/01/12",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/933677"
+  },
+  {
+    "title": "人人要懂的Office文件設計美學 : 能在職場第一線締造成果!",
+    "authors": [
+      "渡邊克之",
+      "許郁文"
+    ],
+    "isbn": "9786263242890",
+    "subjects": [
+      "電腦程式",
+      "文書處理",
+      "套裝軟體"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010935284",
+    "publisher": "碁峰",
+    "publicationDate": "2022/09/14",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964694"
+  },
+  {
+    "title": "PyTorch深度學習實作 : 利用PyTorch實際演練神經網路模型",
+    "authors": [
+      "蘇布拉曼尼安",
+      "王海玲",
+      "劉江峰"
+    ],
+    "isbn": "9786263332850",
+    "subjects": [
+      "人工智慧",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010937361",
+    "publisher": "博碩",
+    "publicationDate": "2022/10/06",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964968"
+  },
+  {
+    "title": "菜鳥也能懂的WordPress網頁製作 : 學會客製化專屬於自己的網頁",
+    "authors": [
+      "鄭德成"
+    ],
+    "isbn": "9786263330351",
+    "subjects": [
+      "網頁設計",
+      "網站",
+      "部落格"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010917399",
+    "publisher": "博碩",
+    "publicationDate": "2022/03/04",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/933980"
+  },
+  {
+    "title": "玩真的!Git x GitHub實戰手冊 : coding實境協同開發雲端同步 = Git for programmers",
+    "authors": [
+      "利伯蒂",
+      "林子政"
+    ],
+    "isbn": "9789863127314",
+    "subjects": [
+      "電腦程式設計",
+      "軟體開發"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010937938",
+    "publisher": "旗標",
+    "publicationDate": "2022/10/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964969"
+  },
+  {
+    "title": "實戰Linux系統數位鑑識",
+    "authors": [
+      "尼克爾",
+      "江湖海"
+    ],
+    "isbn": "9786263242876",
+    "subjects": [
+      "作業系統",
+      "資訊安全",
+      "鑑識",
+      "電腦犯罪"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010729294",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2022/09/16",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/965145"
+  },
+  {
+    "title": "建構機器學習管道 : 運用TensorFlow實現模型生命週期自動化",
+    "authors": [
+      "哈普克",
+      "納爾遜",
+      "陳正暉"
+    ],
+    "isbn": "9786263241688",
+    "subjects": [
+      "人工智慧"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010938035",
+    "publisher": "歐萊禮",
+    "publicationDate": "2022/10/14",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964984"
+  },
+  {
+    "title": "Rust程式設計",
+    "authors": [
+      "布蘭迪",
+      "賴屹民",
+      "奧倫多夫",
+      "廷達爾"
+    ],
+    "isbn": "9786263242326",
+    "subjects": [
+      "Rust(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010932246",
+    "publisher": "歐萊禮",
+    "publicationDate": "2022/08/10",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/964980"
+  },
+  {
+    "title": "圖解從入門到精通Excel x Python資料處理術 : 搭配工作實務場景, 輕鬆學會除錯、擷取、排序、彙整指定數據, 製作QR碼也沒問題",
+    "authors": [
+      "金宏和實",
+      "許郁文"
+    ],
+    "isbn": "9786263490291",
+    "subjects": [
+      "Python(電腦程式語言)",
+      "EXCEL(電腦程式)"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010939833",
+    "publisher": "采實文化",
+    "publicationDate": "2022/11/03",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/965134"
+  },
+  {
+    "title": "自動化測試 + 網路爬蟲 : 至尊王者Selenium 3",
+    "authors": [
+      "蟲師"
+    ],
+    "isbn": "9789865501013",
+    "subjects": [
+      "電腦程式設計",
+      "Python(電腦程式語言)",
+      "搜尋引擎",
+      "資訊蒐集"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010836684",
+    "publisher": "深智數位",
+    "publicationDate": "2019/10/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/1029122"
+  },
+  {
+    "title": "達成10倍效率的Google雲端工作術 : 數位轉型 x 遠距工作",
+    "authors": [
+      "平塚知真子",
+      "衛宮紘"
+    ],
+    "isbn": "9789865029630",
+    "subjects": [
+      "網際網路",
+      "工作效率",
+      "搜尋引擎"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009855232",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2021/10/27",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/930032"
+  },
+  {
+    "title": "你所不知道的必學前端Debug技巧 : 即學即用!讓你Debug不求人",
+    "authors": [
+      "楊楚玄"
+    ],
+    "isbn": "9789864348954",
+    "subjects": [
+      "電腦程式設計"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009793827",
+    "publisher": "博碩文化",
+    "publicationDate": "2021/10/18",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/930034"
+  },
+  {
+    "title": "巨型服務架構 : 分布式/資料庫優化/記憶體快取設計/IO模型",
+    "authors": [
+      "易哥"
+    ],
+    "isbn": "9789860776003",
+    "subjects": [
+      "電腦程式設計",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010894030",
+    "publisher": "深智數位",
+    "publicationDate": "2021/06/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/998012"
+  },
+  {
+    "title": "股票發大財 : 用Python預測玩轉股市高手精解",
+    "authors": [
+      "胡書敏"
+    ],
+    "isbn": "9789865501730",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/008472108",
+    "publisher": "深智數位",
+    "publicationDate": "2021/01/21",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935109"
+  },
+  {
+    "title": "Raspberry Pi樹莓派 : 12道開胃菜打造Linux核心肌群",
+    "authors": [
+      "林有容"
+    ],
+    "isbn": "9789864349173",
+    "subjects": [
+      "作業系統"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010907030",
+    "publisher": "博碩",
+    "publicationDate": "2021/11/02",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935122"
+  },
+  {
+    "title": "Libre Office 7.x實用範例輕鬆學 : Writer、Calc、Impress",
+    "authors": [
+      "侯語彤"
+    ],
+    "isbn": "9789864766277",
+    "subjects": [
+      "LibreOffice(電腦程式)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010130742",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2021/12/07",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935139"
+  },
+  {
+    "title": "比Docker再高階一步 : 使用Harbor完成Helm Chart容器及鏡像雲端原生管理",
+    "authors": [
+      "張海寧"
+    ],
+    "isbn": "9789865501891",
+    "subjects": [
+      "雲端運算",
+      "電子資料處理"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010888350",
+    "publisher": "深智數位",
+    "publicationDate": "2021/04/19",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/930392"
+  },
+  {
+    "title": "好想學Excel職場聖經 : 731技學好學滿 = Hands-on bible",
+    "authors": [
+      "施威銘研究室"
+    ],
+    "isbn": "9789863126775",
+    "subjects": [
+      "EXCEL(電腦程式)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009797247",
+    "publisher": "Excel 職場聖經：731技學好學滿",
+    "publicationDate": "2021/10/29",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/932522"
+  },
+  {
+    "title": "最速網頁開發 : 用Go Web一手建立高能效網站系統",
+    "authors": [
+      "廖顯東"
+    ],
+    "isbn": "9789860776485",
+    "subjects": [
+      "全球資訊網",
+      "網頁設計",
+      "電腦程式語言"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010907568",
+    "publisher": "深智數位",
+    "publicationDate": "2021/11/20",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/933183"
+  },
+  {
+    "title": "企業資安裁罰案件分析 : 深度解析27個實際案件, 靈活運用資安策略",
+    "authors": [
+      "彭偉鎧"
+    ],
+    "isbn": "9789864348527",
+    "subjects": [
+      "個案研究",
+      "資訊安全"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009638910",
+    "publisher": "博碩文化",
+    "publicationDate": "2021/08/11",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/963265"
+  },
+  {
+    "title": "老姐要用Kotlin寫專案 : 從Server到Android APP的開發生存日記",
+    "authors": [
+      "李盈瑩"
+    ],
+    "isbn": "9789864348978",
+    "subjects": [
+      "電腦程式設計",
+      "系統程式"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009825311",
+    "publisher": "博碩文化",
+    "publicationDate": "2021/10/25",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935155"
+  },
+  {
+    "title": "新觀念PHP8 + MySQL + AJAX網頁設計範例教本",
+    "authors": [
+      "陳會安"
+    ],
+    "isbn": "9789863126850",
+    "subjects": [
+      "PHP(電腦程式語言)",
+      "SQL(電腦程式語言)",
+      "網頁設計",
+      "資料庫管理系統",
+      "網路資料庫"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009774892",
+    "publisher": "新觀念PHP8+MySQL+AJAX網頁程式範例教本",
+    "publicationDate": "2021/10/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/930056"
+  },
+  {
+    "title": "突破困境!企業開源虛擬化管理平台 : 使用Proxmox Virtual Environment",
+    "authors": [
+      "鄭郁霖"
+    ],
+    "isbn": "9789864349616",
+    "subjects": [
+      "作業系統",
+      "虛擬實境"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010149327",
+    "publisher": "博碩文化",
+    "publicationDate": "2022/01/04",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/933203"
+  },
+  {
+    "title": "機器學習入門 : 使用Scikit-Learn與TensorFlow",
+    "authors": [
+      "黃建庭"
+    ],
+    "isbn": "9786263240285",
+    "subjects": [
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010155967",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2021/12/22",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/933979"
+  },
+  {
+    "title": "喬叔帶你上手Elastic Stack : Elasticsearch的最佳實踐與最佳化技巧",
+    "authors": [
+      "吳楨文"
+    ],
+    "isbn": "9789864348572",
+    "subjects": [
+      "作業系統",
+      "資料探勘"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009741683",
+    "publisher": "博碩文化",
+    "publicationDate": "2021/09/13",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/932648"
+  },
+  {
+    "title": "跟著Docker隊長修練22天就精通",
+    "authors": [
+      "史東曼",
+      "葉欣睿",
+      "李龍威"
+    ],
+    "isbn": "9789863126799",
+    "subjects": [
+      "作業系統",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009789841",
+    "publisher": "跟著 Docker 隊長，修練 22 天就精通：搭配20小時作者線上教學，無縫接軌 Microservices、Cloud-native、Serverless、DevOps 開發架構",
+    "publicationDate": "2021/10/13",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934449"
+  },
+  {
+    "title": "設計重構 : 25個管理技術債的技巧 消除軟體設計臭味",
+    "authors": [
+      "蘇利安那拉亞那",
+      "薩瑪帝亞姆",
+      "夏瑪",
+      "袁國忠"
+    ],
+    "isbn": "9789864345229",
+    "subjects": [
+      "電腦程式設計",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010904604",
+    "publisher": "博碩",
+    "publicationDate": "2021/10/05",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934517"
+  },
+  {
+    "title": "Web應用系統安全 : 現代Web應用程式開發的資安對策",
+    "authors": [
+      "霍夫曼",
+      "江湖海"
+    ],
+    "isbn": "9789865029869",
+    "subjects": [
+      "資訊安全",
+      "軟體研發",
+      "電腦網路",
+      "網路安全"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010099736",
+    "publisher": "美商歐萊禮",
+    "publicationDate": "2021/11/25",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934534"
+  },
+  {
+    "title": "資安這條路 : 領航新手的Web Security指南 : 以自建漏洞環境學習網站安全",
+    "authors": [
+      "林子婷"
+    ],
+    "isbn": "9789864348985",
+    "subjects": [
+      "資訊安全",
+      "網路安全"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010906898",
+    "publisher": "博碩",
+    "publicationDate": "2021/11/01",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934928"
+  },
+  {
+    "title": "Python遊戲開發講座. 入門篇 : 基礎知識與RPG遊戲",
+    "authors": [
+      "廣瀬豪",
+      "許郁文"
+    ],
+    "isbn": "9786263240339",
+    "subjects": [
+      "Python(電腦程式語言)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010169802",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2022/01/04",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934700"
+  },
+  {
+    "title": "超實用!公務員Excel省時祕技108招 : 輕鬆提高自動化執行力",
+    "authors": [
+      "張雯燕",
+      "ZCT"
+    ],
+    "isbn": "9789864349548",
+    "subjects": [
+      "EXCEL(電腦程式)"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010113335",
+    "publisher": "博碩文化",
+    "publicationDate": "2021/12/02",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935001"
+  },
+  {
+    "title": "前端框架Svelte上手指南 : 從基本介紹到UI實戰與測試",
+    "authors": [
+      "陳愷奕"
+    ],
+    "isbn": "9789864348992",
+    "subjects": [
+      "網頁設計"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010906094",
+    "publisher": "博碩",
+    "publicationDate": "2021/10/26",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934932"
+  },
+  {
+    "title": "深度學習的16堂課 : CNN. RNN. GAN. DQN. DRL看得懂、學得會、做得出!",
+    "authors": [
+      "克羅恩",
+      "黃駿",
+      "哈雷(Haley, Amanda)",
+      "比利德",
+      "巴森斯"
+    ],
+    "isbn": "9789863126782",
+    "subjects": [
+      "人工智慧",
+      "Python(電腦程式語言)",
+      "機器學習"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/009665192",
+    "publisher": "深度學習的16堂課：CNN + RNN + GAN + DQN + DRL, 看得懂、學得會、做得出！",
+    "publicationDate": "2021/09/13",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934715"
+  },
+  {
+    "title": "用ASP.NET Core打造軟體積木和應用系統",
+    "authors": [
+      "陳明山",
+      "江通儒"
+    ],
+    "isbn": "9789865029883",
+    "subjects": [
+      "電腦程式設計",
+      "軟體研發"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010911627",
+    "publisher": "碁峰",
+    "publicationDate": "2021/12/27",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935063"
+  },
+  {
+    "title": "AIoT與OpenCV實戰應用 : Python、樹莓派、物聯網與機器視覺",
+    "authors": [
+      "朱克剛"
+    ],
+    "isbn": "9786263240193",
+    "subjects": [
+      "數位影像處理",
+      "Python(電腦程式語言)",
+      "電腦視覺"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010113295",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2021/11/29",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934862"
+  },
+  {
+    "title": "唐鳳談AI與數位的未來",
+    "authors": [
+      "唐鳳",
+      "姚巧梅",
+      "日本總裁出版社編輯部"
+    ],
+    "isbn": "9789865504595",
+    "subjects": [
+      "人工智慧",
+      "社會變遷",
+      "技術發展",
+      "資訊教育"
+    ],
+    "purchaseLink": "https://www.books.com.tw/products/0010908484",
+    "publisher": "蔚藍文化",
+    "publicationDate": "2021/11/17",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/997926"
+  },
+  {
+    "title": "秒懂!行動網頁設計 : Visual Studio Code + GitHub + Bootstrap5 + CSS3 + HTML5 + Web App專案實作",
+    "authors": [
+      "蕭國倫"
+    ],
+    "isbn": "9786263240315",
+    "subjects": [
+      "網頁設計"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/000426472",
+    "publisher": "大塊文化",
+    "publicationDate": "2005/06/06",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/935086"
+  },
+  {
+    "title": "PHP8 & MariaDB / MySQL網站開發 : 超威範例集",
+    "authors": [
+      "陳惠貞",
+      "陳俊榮"
+    ],
+    "isbn": "9786263240179",
+    "subjects": [
+      "PHP(電腦程式語言)",
+      "SQL(電腦程式語言)",
+      "網頁設計",
+      "資料庫管理系統",
+      "網路資料庫"
+    ],
+    "purchaseLink": "https://www.sanmin.com.tw/Product/index/010109577",
+    "publisher": "碁峰資訊",
+    "publicationDate": "2021/11/29",
+    "url": "https://webpac.taichung.gov.tw/bookDetail/934909"
+  }
+]
