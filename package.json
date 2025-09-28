@@ -17,6 +17,8 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@hono/node-server": "^1.19.4",
+    "hono": "^4.9.9",
     "@types/node": "^24.5.2",
     "@types/pg": "^8.15.5",
     "drizzle-kit": "^0.31.4",
